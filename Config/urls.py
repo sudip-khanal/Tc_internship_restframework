@@ -44,7 +44,7 @@ urlpatterns = [
 
 
     path('admin/', admin.site.urls),
-    path('',include('Apps.api.urls')),
+    path('',include('apps.api.urls')),
 
   
 ]

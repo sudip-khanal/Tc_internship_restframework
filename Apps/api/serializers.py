@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from Apps.api.models import Product
+from apps.api.models import Product
 
 class ProductSerializers(serializers.Serializer):
     name = serializers.CharField(max_length=20)
