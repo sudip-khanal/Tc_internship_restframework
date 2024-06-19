@@ -1,1 +1,4 @@
 env
+Config/__pycache__
+Apps/api/__pycache__
+Config/.env
