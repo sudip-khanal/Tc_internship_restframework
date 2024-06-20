@@ -45,6 +45,8 @@ urlpatterns = [
 
     path('admin/', admin.site.urls),
     path('',include('apps.api.urls')),
+    path('account/',include('apps.account.urls')),
+
 
   
 ]

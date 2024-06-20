@@ -2,3 +2,5 @@ env
 Config/__pycache__
 Apps/api/__pycache__
 Config/.env
+apps/account/__pycache__/
+apps/account/migrations/__pycache__/
